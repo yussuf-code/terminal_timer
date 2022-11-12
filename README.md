@@ -1,1 +1,1 @@
-# a terminal timer written in python
+# a terminal timer written in python.
